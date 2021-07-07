@@ -2,8 +2,8 @@
 
 GunfireReborn-aimbot是基于MelonLoader制作的枪火重生自瞄弱点mod。
 
-该仓库Fork自https://github.com/pentium1131/GunfireReborn-aimbot，适配了最新版游戏，去除了除自瞄外的所有功能。
-按左Ctrl可切换自瞄开关。
+该仓库Fork自https://github.com/pentium1131/GunfireReborn-aimbot。
+适配了最新版游戏，去除了除自瞄外的所有功能。按左Ctrl可切换自瞄开关。
 
 本mod基于MelonLoader 2.x 版本，对于 3.x 版本不保证兼容性。
 

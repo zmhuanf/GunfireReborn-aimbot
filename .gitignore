@@ -2,3 +2,4 @@ obj/
 Output/
 *.cache
 *.suo
+.vs
